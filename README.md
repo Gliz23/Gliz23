@@ -6,7 +6,7 @@
 -->
 
 - 🔭 I’m currently working on some projects.
-- 🌱 I’m currently learning Data Science and Machine Learning
+- 🌱 I’m currently learning Data Science ✨ and Machine Learning ✨
 - 📫 How to reach me: gloryakoto148@gmail.com
 - ⚡ Fun fact: I love art and nature 😄
 
