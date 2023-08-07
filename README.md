@@ -10,4 +10,4 @@
 - 📫 How to reach me: gloryakoto148@gmail.com
 - ⚡ Fun fact: I love art and nature 😄
 
- ![Glory's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gliz23&show_icons=true&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gliz23&layout=compact)
+ ![Glory's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gliz2&show_icons=true&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gliz2&layout=compact)
