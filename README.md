@@ -11,3 +11,4 @@
 - ⚡ Fun fact: I love art and nature 😄
 
 ![Glory's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gliz23&show_icons=true&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gliz23&layout=compact)
+![Your Name's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?Gliz23)
