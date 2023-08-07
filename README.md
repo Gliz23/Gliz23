@@ -10,4 +10,5 @@
 - 📫 How to reach me: gloryakoto148@gmail.com
 - ⚡ Fun fact: I love art and nature 😄
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gliz23)](https://github.com/anuraghazra/github-readme-stats)
+ [![Glory's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gliz23)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gliz23)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
