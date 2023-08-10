@@ -2,7 +2,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gliz23&theme=onedark)](https://github.com/Gliz23/github-profile-trophy)
 <!--
-**Gliz23/Gliz23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Gliz23/Gliz23* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 - 🔭 I’m currently working on some projects.
