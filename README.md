@@ -1,4 +1,4 @@
-### Hey there! Glory here. Welcome to my GitHub profile. 👋
+### Hey there  👋      Glory here!        Welcome to my GitHub profile. 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gliz23&theme=onedark)](https://github.com/Gliz23/github-profile-trophy)
 <!--
