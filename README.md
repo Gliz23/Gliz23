@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on some projects.
 - 🌱 I’m currently learning Data Science ✨ and Machine Learning ✨
 - 📫 How to reach me: gloryakoto148@gmail.com
-- ⚡ Fun fact: I love art and nature 😄
+- ⚡ Fun fact: I love art and nature..(..al hair) 😄
 
  [![Glory's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gliz23)](https://github.com/Gliz23/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gliz23)](https://github.com/Gliz23/github-readme-stats) 
