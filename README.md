@@ -6,7 +6,7 @@
 -->
 
 - 🔭 I’m currently working on some projects.
-- 🌱 I’m currently learning Data Science ✨ and Machine Learning ✨
+- 🌱 I’m currently learning Data Science ✨ and Web Development ✨
 - 📫 How to reach me:
                  Gmail:     gloryakoto148@gmail.com
                  LinkedIn:  https://www.linkedin.com/in/glory-akoto-bab40129a/
