@@ -10,7 +10,7 @@
 - 📫 How to reach me:
                  Gmail:     gloryakoto148@gmail.com
                  LinkedIn:  https://www.linkedin.com/in/glory-akoto-bab40129a/
-- ⚡ Fun fact: I love art and nature..(..al hair) 😄
+- ⚡ Fun fact: I love arts and nature. 
 
  [![Glory's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gliz23)](https://github.com/Gliz23/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gliz23)](https://github.com/Gliz23/github-readme-stats) 
