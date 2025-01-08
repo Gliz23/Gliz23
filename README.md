@@ -6,7 +6,6 @@
 -->
 
 - 🔭 I’m currently working on some projects.
-- 🌱 I’m currently learning TypeScript and Next JS ✨
 - 📫 How to reach me:
                  Gmail:     gloryakoto148@gmail.com
                  LinkedIn:  https://www.linkedin.com/in/glory-akoto-bab40129a/
