@@ -11,7 +11,7 @@
                  LinkedIn:  https://www.linkedin.com/in/glory-akoto-bab40129a/
 - ⚡ Fun fact: I love arts and nature. 
 
-[![Glory's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gliz23)](https://github.com/Gliz23/github-readme-stats)
+![Glory's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gliz23&random=123456)
 
  
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gliz23)](https://git.io/streak-stats)
