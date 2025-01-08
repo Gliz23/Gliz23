@@ -12,7 +12,6 @@
 - ⚡ Fun fact: I love arts and nature. 
 
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Gliz23&background=f2f2f2&border_radius=10)](https://git.io/streak-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gliz23&langs_count=8&layout=compact)](https://github.com/Gliz23/github-readme-stats)
 
