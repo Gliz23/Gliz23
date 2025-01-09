@@ -4,7 +4,7 @@
 
 <br>
 
-##A Data Enthusiast who loves to create.
+A Data Enthusiast who loves to create.
 
 </div>
 
