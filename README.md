@@ -1,4 +1,10 @@
-### Hey there  👋      Glory here!        Welcome to my GitHub profile. 
+<div align="center">
+
+# Hi👋 I am Glory Akoto.
+<br>
+## A Data Enthusiast who loves to create.
+
+</div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gliz23&theme=onedark)](https://github.com/Gliz23/github-profile-trophy)
 <!--
