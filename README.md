@@ -8,8 +8,9 @@ A Data Enthusiast who loves to create.
 
 </div>
 
-
+<div align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gliz23&theme=onedark)](https://github.com/Gliz23/github-profile-trophy)
+</div>
 <!--
 *Gliz23/Gliz23* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
