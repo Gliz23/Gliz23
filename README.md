@@ -1,8 +1,10 @@
 <div align="center">
 
 # Hi👋 I am Glory Akoto.
+
 <br>
-## A Data Enthusiast who loves to create.
+
+##A Data Enthusiast who loves to create.
 
 </div>
 
