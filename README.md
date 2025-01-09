@@ -6,6 +6,9 @@
 -->
 
 - 🔭 I’m currently working on some projects.
+
+- My portfolio  :   https://gliz23.github.io/
+
 - 📫 How to reach me:
                  Gmail:     gloryakoto148@gmail.com
                  LinkedIn:  https://www.linkedin.com/in/glory-akoto-bab40129a/
