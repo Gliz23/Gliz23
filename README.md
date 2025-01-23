@@ -32,7 +32,7 @@ A Data Enthusiast who loves to create.
 
   [![Glory's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gliz23&show_icons=true&theme=radical)](https://github.com/Gliz23/github-readme-stats)
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gliz23&custom_title=Glory's&20Activity&20Graph&hide_border=true&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gliz23&custom_title=Glory's&Activity&Graph&hide_border=true&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   </div>
  
