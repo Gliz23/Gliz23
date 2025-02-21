@@ -17,9 +17,9 @@ A Data Enthusiast who loves to create.
 *Gliz23/Gliz23* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on some projects.
+- 🔭 I’m currently teaching Data Analytics on Youtube.
 
-- My portfolio  :   https://gliz23.github.io/
+- Check out my portfolio:   https://gliz23.github.io/
 
 - 📫 How to reach me:
                  Gmail:     gloryakoto148@gmail.com
